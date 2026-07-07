@@ -22,6 +22,6 @@ jhgjhgjgjhgjg<br>
 ![咖啡](pic/coffee.JPG)
 
 [demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
-這是我的java學習記事今天添加幾個由AI輔助製作出來的java程式
+這是我的java學習記事以及添加幾個由AI輔助製作出來的java程式
 
 
